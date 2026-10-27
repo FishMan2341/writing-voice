@@ -1,0 +1,7 @@
+{
+  "name": "writing-voice",
+  "version": "1.0.0",
+  "description": "Teach Claude your own writing voice from your real samples, then draft, rewrite and revise in it. Includes a guided setup skill, AI-tell audits, and a one-pass academic-essay pipeline (source verification, Chicago-footnoted .docx/.pdf build, voice and citation gates).",
+  "license": "MIT",
+  "keywords": ["writing", "voice", "style", "essay", "stylometry"]
+}

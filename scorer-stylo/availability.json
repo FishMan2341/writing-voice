@@ -1,0 +1,5 @@
+{
+ "ensemble_ready": false,
+ "reason": "No ensemble ships with this plugin. Train one on your own corpus (skills/voice-setup step 5), check tools/calibrate.py, then set ensemble_ready to true.",
+ "training_manifest_required": "voice/training_manifest.json; train.py fails without it (no raw-corpus fallback)"
+}

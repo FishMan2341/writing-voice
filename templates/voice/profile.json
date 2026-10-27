@@ -1,0 +1,15 @@
+{
+ "_comment": "Voice gate targets. Generic defaults until you run: python tools/voice/measure.py --write. Then add your own signature phrases (with a per-piece cap) and off-voice phrases. See CUSTOMIZE.md.",
+ "title_colon_ok": true,
+ "headings_ok": true,
+ "openers": [],
+ "rates": [],
+ "long_sentences": {"words": 35, "max_pct": 20},
+ "max_contractions": 99,
+ "signatures": {},
+ "off_voice": [
+  "\\bdelve\\b", "\\btapestry\\b", "\\bunderscore", "\\bpivotal\\b", "\\bfoster",
+  "\\btestament\\b", "\\blandscape\\b", "\\bserves as\\b", "\\bstands as\\b",
+  "\\bIt is worth (noting|noticing)\\b", "\\bIn today's\\b", "\\bnot just\\b"
+ ]
+}

@@ -1,0 +1,20 @@
+# Your voice data: never publish it.
+voice/*
+!voice/README.md
+
+# Generated training data and models
+scorer-stylo/negatives/*
+!scorer-stylo/negatives/README.md
+scorer-stylo/controls/
+scorer-stylo/calibration/
+scorer-stylo/ensemble.pkl
+scorer-stylo/venv/
+*.pkl
+
+# Working files
+__pycache__/
+*.pyc
+*.docx
+*.pdf
+essay.txt
+.DS_Store

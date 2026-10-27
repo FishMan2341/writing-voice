@@ -1,0 +1,6 @@
+{
+ "_example": {"001": {"operations": [
+   {"op": "drop_line_exact", "text": "Part II:", "expected_count": 1, "reason": "assignment part label"},
+   {"op": "drop_line_prefix", "prefix": "“A quoted headline", "expected_count": 1, "reason": "third-party quotation"}]}},
+ "docs": {}
+}

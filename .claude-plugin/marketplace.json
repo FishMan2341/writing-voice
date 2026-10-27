@@ -1,0 +1,14 @@
+{
+  "name": "writing-voice",
+  "owner": {
+    "name": "writing-voice contributors"
+  },
+  "plugins": [
+    {
+      "name": "writing-voice",
+      "source": "./",
+      "description": "Teach Claude your own writing voice from your real samples, then draft and revise in it.",
+      "version": "1.0.0"
+    }
+  ]
+}
